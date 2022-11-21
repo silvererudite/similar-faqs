@@ -1,0 +1,5 @@
+app.zip
+__pycache__
+notebooks
+.gitignore
+*.pyc
