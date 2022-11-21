@@ -1,5 +1,5 @@
 # similar-faqs
-
+This project was built to demonstrate how to build a dockerized python api utilizing a deep learning model. 
 Check out the live demo here
 
 https://huggingface.co/spaces/Shamima/similar-faqs
